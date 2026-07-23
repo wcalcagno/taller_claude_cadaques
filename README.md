@@ -25,19 +25,18 @@ Los archivos están numerados en el orden exacto en que los usarás. Sigue la nu
 
 Cada desafío indica al inicio qué archivos de `datos/` usa, y al final tiene el enlace al siguiente paso.
 
-## Agenda del taller
+## Agenda del taller (2 horas)
 
 | Bloque | Duración |
 |---|---|
-| Encuadre y setup | 15 min |
-| Casos del área en vivo (demo del profesor) | 25 min |
-| Desafío 1: La Conciliación que no Cuadra | 50 min |
-| Pausa | 10 min |
-| Desafío 2: La Skill del Reporte Recurrente | 55 min |
-| Pausa | 10 min |
-| Desafío 3: Cowork sobre la Carpeta de Cierre | 50 min |
+| Encuadre y pulso | 10 min |
+| Demo en vivo: La Conciliación que no Cuadra (Desafío 1, guiado por el profesor) | 15 min |
+| Desafío 2: La Skill del Reporte Recurrente (hands-on, el corazón del taller) | 40 min |
+| Desafío 3: Cowork sobre la Carpeta de Cierre (hands-on) | 30 min |
 | Aterrizar tu idea al Challenge | 15 min |
 | Cierre, dudas y evaluación | 10 min |
+
+El Desafío 1 se hace como demo participativa: el profesor lo ejecuta en vivo y tú intervienes proponiendo prompts y verificando cifras. Si quieres hacerlo completo por tu cuenta, el material queda en [01_desafio_conciliacion.md](01_desafio_conciliacion.md): es excelente práctica post-taller.
 
 ## Hacia dónde apunta todo: el Challenge Day
 

@@ -1,11 +1,15 @@
 # Desafío 1: La Conciliación que no Cuadra
-**50 minutos · Individual o en duplas · Herramienta: Claude (chat)**
+**15 minutos como demo en vivo · Versión completa (50 min) como práctica post-taller · Herramienta: Claude (chat)**
 
 [Inicio](README.md) | Anterior: [Antes de empezar](00_antes_de_empezar.md) | Siguiente: [Desafío 2](02_desafio_skill_reporte.md)
 
 **Archivos que necesitas:** `datos/desafio1/cartola_banco.md` y `datos/desafio1/registro_contable.md`
 
 ---
+
+## Cómo se hace en el taller
+
+En sala este desafío es una **demo participativa**: el profesor lo ejecuta en vivo y tú propones los prompts y verificas las cifras a viva voz. Los pasos de abajo son la versión completa para que la repitas por tu cuenta después del taller, idealmente con una conciliación real de tu área.
 
 ## Tu situación
 

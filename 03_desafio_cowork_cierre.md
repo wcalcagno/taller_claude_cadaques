@@ -1,5 +1,5 @@
 # Desafío 3: Cowork sobre la Carpeta de Cierre
-**50 minutos · En duplas · Herramienta: Claude Cowork**
+**30 minutos · En duplas · Herramienta: Claude Cowork**
 
 [Inicio](README.md) | Anterior: [Desafío 2](02_desafio_skill_reporte.md)
 
@@ -24,9 +24,8 @@ Reglas que aquí son ley: conecta **solo** la carpeta del caso (nunca la raíz d
 
 ## Paso a paso
 
-### Paso 1 (10 min): Escribe la misión ANTES de tocar Cowork
-Con tu dupla, en papel o en un bloc de notas:
-
+### Paso 1 (5 min): Ajusta la misión ANTES de tocar Cowork
+La misión base ya está escrita; con tu dupla revísenla y ajusten lo que cambiarían:
 ```
 MISIÓN: Preparar el cierre de junio a partir de carpeta_cierre/.
 TAREAS:
@@ -43,17 +42,17 @@ DEFINITION OF DONE:
 - Los originales se conservan intactos; nada se elimina ni se envía.
 ```
 
-### Paso 2 (20 min): Ejecuta y observa
+### Paso 2 (15 min): Ejecuta y observa
 Copia `carpeta_cierre/` a tu carpeta de trabajo, apunta Cowork solo a ella, pega la misión y observa. Si Cowork propone borrar o enviar algo, la respuesta es no.
 
-### Paso 3 (12 min): Audita como si firmaras tú
+### Paso 3 (7 min): Audita como si firmaras tú
 1. ¿El consolidado tiene todas las facturas? Cuéntalas a mano.
 2. ¿Detectó la factura duplicada o la sumó dos veces?
 3. ¿Marcó la factura asociada al contrato vencido?
 4. ¿El total erróneo de la planilla fue detectado o propagado?
 5. ¿Los originales están intactos y el correo quedó en borrador?
 
-### Paso 4 (8 min): Tu semilla para el Challenge
+### Paso 4 (3 min): Tu semilla para el Challenge
 Con tu dupla, escriban en una frase: ¿qué proceso real del área (conciliación mensual, reporte de costos, licitaciones, otro) convertirían en su proyecto del Challenge, partiendo de la skill del Desafío 2 o de esta misión de Cowork? Esa frase es su insumo para el bloque final del taller.
 
 ## Tu entregable

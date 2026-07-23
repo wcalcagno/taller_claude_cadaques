@@ -1,5 +1,5 @@
 # Desafío 2: La Skill del Reporte Recurrente
-**55 minutos · En duplas · Herramienta: Claude Enterprise (Skills)**
+**40 minutos · En duplas · Herramienta: Claude Enterprise (Skills)**
 
 [Inicio](README.md) | Anterior: [Desafío 1](01_desafio_conciliacion.md) | Siguiente: [Desafío 3](03_desafio_cowork_cierre.md)
 
@@ -21,10 +21,10 @@ Si tu equipo trae el reporte real que rehace cada mes, úsalo (con cifras enmasc
 
 ## Paso a paso
 
-### Paso 1 (10 min): Define el reporte en papel
+### Paso 1 (5 min): Define el reporte en papel
 Con tu dupla, responde antes de tocar Claude: ¿qué entra cada mes (archivos)?, ¿qué sale (secciones)?, ¿qué reglas aplican (semáforos, umbrales)?, ¿qué NUNCA debe hacer la skill (inventar cifras, omitir anomalías)?
 
-### Paso 2 (20 min): Construye y revisa en .md
+### Paso 2 (15 min): Construye y revisa en .md
 Prompt de arranque:
 
 ```
@@ -41,12 +41,12 @@ Lee el `.md` línea por línea. ¿Falta una regla? Itera. **Todavía no instales
 
 Nota: si Claude toma una skill corporativa de Cadaqués y la complementa, es normal. Pregúntale cuál está usando para distinguir la tuya.
 
-### Paso 3 (15 min): Instala y prueba
+### Paso 3 (12 min): Instala y prueba
 - Guarda la skill e invócala con `/` sobre `costos_por_local.md`.
 - Verifica: ¿detectó el total que no suma?, ¿la categoría mal clasificada?
 - Prueba de fuego: pásale el mismo archivo con una columna renombrada. ¿Se rompe con elegancia o inventa?
 
-### Paso 4 (10 min): Prueba cruzada
+### Paso 4 (8 min): Prueba cruzada
 Intercambia tu skill con otra dupla y ejecútenla sobre los mismos datos. ¿Mismo resultado? ¿Aparecen las anomalías? ¿Alguna cifra sin fuente?
 
 ## Tu entregable
